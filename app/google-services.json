@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "146264105347",
+    "firebase_url": "https://engineering-grapics.firebaseio.com",
+    "project_id": "engineering-grapics",
+    "storage_bucket": "engineering-grapics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146264105347:android:478aab4362c37d0e",
+        "android_client_info": {
+          "package_name": "com.knanilkumar.graphics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146264105347-iop3ts2ka6fapehholchtp4158di2df2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAArzLscc70Mb2HU51PpgqDLcsmVOhJP8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
